@@ -38,3 +38,7 @@ TaskHup utilizes the following packages:
 - **sqflite**: For local database storage using SQLite, enabling efficient task data management.
 - **bloc**: For implementing the Business Logic Component pattern, providing separation of concerns and a scalable architecture.
 - **shared_preferences**: For storing simple data in key-value pairs persistently, used for settings and user preferences.
+
+## LinkedIn 
+
+https://www.linkedin.com/posts/nrmeen-sadek_teknosoft-activity-7190552073157959680-ZQPW?utm_source=share&utm_medium=member_android
